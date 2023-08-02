@@ -1,2 +1,2 @@
-# libdevel-ptkdb-perl
+# libdevel-ptkdb
 The canonical repo for Devel::ptkdb.
